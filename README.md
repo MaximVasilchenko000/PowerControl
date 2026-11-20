@@ -106,7 +106,7 @@ Option 1 — Run from Source
 
 Clone this repository:
 
-git clone https://github.com/YOUR_USERNAME/PowerControl.git
+git clone https://github.com/MaximVasilchenko000/PowerControl.git
 
 Open Timer.sln in Visual Studio 2022.
 
